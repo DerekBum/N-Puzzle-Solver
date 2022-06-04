@@ -25,3 +25,7 @@ To run this script you need to create a ```.txt``` file with
 You can find examples in [input examples](https://github.com/DerekBum/N-Puzzle-Solver/tree/main/inputExamples).  
 
 Then simply run ```./findMin.py input.txt```. Answer will be in ```output.txt```.  
+
+## Presentation
+
+I am using [ComposeSlidesPresenter](https://plugins.jetbrains.com/plugin/19233-composeslidespresenter) to show presentation. Please see [project GitHub page](https://github.com/DerekBum/composeSlidesPresenter) for more information.  
