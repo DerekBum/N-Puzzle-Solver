@@ -1,0 +1,9 @@
+slid/SMTNPuzzle_pages-to-jpg-{{next 4}}.jpg
+
+checker.py
+
+slid/SMTNPuzzle_pages-to-jpg-{{next 2}}.jpg
+
+findMin.py
+
+slid/SMTNPuzzle_pages-to-jpg-{{next 7}}.jpg
